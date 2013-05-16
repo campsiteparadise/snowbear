@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'AirstreamRegular';
+    src: url('airstream.eot');
+    src: url('airstream.eot') format('embedded-opentype'),
+         url('airstream.woff') format('woff'),
+         url('airstream.ttf') format('truetype'),
+         url('airstream.svg#AirstreamRegular') format('svg');
+}
